@@ -8,7 +8,7 @@ from keep_alive import keep_alive
 
 client = discord.Client()
 
-key_words = ["feedback", "stuff"]
+key_words = ["feedback", "stuff", "test"]
 
 starter_encouragements = [
   "feel free to check out upcoming ecommerce products at https://discord.gg/UTK3UWUfDz",
